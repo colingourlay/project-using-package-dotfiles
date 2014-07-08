@@ -1,0 +1,9 @@
+{
+  "name": "project-using-package-dotfiles",
+  "version": "0.0.0",
+  "description": "An example project which will install dotfiles using a [package-dotfiles] package.",
+  "license": "MIT",
+  "devDependencies": {
+    "package-dotfiles": "~0.3.0"
+  }
+}
