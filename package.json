@@ -4,6 +4,6 @@
   "description": "An example project which will install dotfiles using a [package-dotfiles] package.",
   "license": "MIT",
   "devDependencies": {
-    "package-dotfiles": "~0.3.0"
+    "package-dotfiles": "~0.4.0"
   }
 }
